@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF430F</color>
+    <color name="colorPrimaryDark">#EF430F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mainbg">#EEEEEE</color>
+    <color name="ziblack">#323030</color>
+    <color name="qianblue">#1F94EB</color>
+</resources>
